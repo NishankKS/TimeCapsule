@@ -7,7 +7,7 @@ TimeCapsule aims to create an AI-based system that can generate visually compell
 
 Objective:- The goal of TimeCapsule is to make historical events more engaging and accessible for a wider audience. By providing visually stunning and accurate representations of historical events, the system will enable students, researchers, and history enthusiasts to gain a deeper understanding and appreciation of our shared past. Additionally, the system could be used in museums, historical sites, and educational institutions to enhance the learning experience and bring history to life.
 
-Solution:-
+Solution:- To develop an AI system that offers users comprehensive insights into historical events through a combination of text, image, and video content, providing a multi-dimensional and immersive learning experience.
 
 ## BART (Text summarization)
 
