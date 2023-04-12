@@ -9,18 +9,21 @@ Objective:- The goal of TimeCapsule is to make historical events more engaging a
 
 Solution:-
 
-## BART (text summarization)
+## BART (Text summarization)
 
 BART (Bidirectional and Auto-Regressive Transformer) is a neural network-based text summarization model developed by Facebook AI Research. BART is capable of performing both abstractive and extractive summarization, meaning it can generate a summary that includes new information not present in the original text, or it can select and condense the most important information from the input text.BART is a pre-trained model that has been fine-tuned on a variety of natural language processing tasks.
 
-## Vicuna 13b
+## Vicuna 13b (Large Langauge Model)
 
 Vicuna is a large languagemodel that has been trained on vast amounts of textual data, such as books, articles, and websites, in order to generate human-like language responses. The goal of VIcuna is to be able to understand and generate natural language that is similar to the way humans communicate, and to do so on a wide range of topics and in various languages.Vicuna is based on neural networks, specifically on the Transformer architecture, which allows the model to process and analyze large amounts of text while capturing the context and relationships.
 
-## Stable Diffusion
+## Stable Diffusion (Image generation) 
 
 Stable Diffusion is a latent text-to-image diffusion model capable of generating photo-realistic images given any text input, cultivates autonomous freedom to produce incredible imagery, empowers billions of people to create stunning art within seconds.
 
+## Stable Diffusion text-to-video-synthesis Model
+
+The text-to-video generation diffusion model consists of three sub-networks: text feature extraction model, text feature-to-video latent space diffusion model, and video latent space to video visual space model. The overall model parameters are about 1.7 billion. Currently, it only supports English input. The diffusion model adopts a UNet3D structure, and implements video generation through the iterative denoising process from the pure Gaussian noise video.
 
 # The oneAPI effect
 
