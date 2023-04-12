@@ -33,7 +33,7 @@ System Workflow:
 
 ![image](https://user-images.githubusercontent.com/92366177/231512004-149994b8-4259-4bec-8459-ccd799b2da9f.png)
 
-GUI:
+Demo:
 
 https://user-images.githubusercontent.com/92366177/231514931-3e45a7a2-2ab0-4645-adb0-8f30539d8e7c.mp4
 
