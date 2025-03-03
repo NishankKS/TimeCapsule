@@ -1,4 +1,4 @@
-# TimeCapsule (powered by Intel oneAPI)
+# TimeCapsule
 
 An AI & ML solution to help you experience history like never before!
 
